@@ -1,6 +1,10 @@
 # Getting Started
 
-Change the values in the .env file before using the application.
+Change the values in the .env file before using the application. The application must be restarted after each change.
+
+# Preview Page
+
+![image](https://user-images.githubusercontent.com/5374623/215221680-8ba52620-295d-43ea-8d4e-da62cc4f0928.png)
 
 # Getting Started with Create React App
 
