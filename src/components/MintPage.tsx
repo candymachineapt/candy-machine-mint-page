@@ -69,7 +69,7 @@ export default function MintPage() {
             <Space h="md"/>
             <form onSubmit={handleSubmit}>
                 { error &&
-                    <Notification icon={<IconX size={18} />} color="red">
+                    <Notification icon={<IconX size={18} />} color="red" disallowClose>
                         {error}
                     </Notification>
                 }
